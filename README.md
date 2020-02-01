@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Zion's Gatsby Default Starter
 </h1>
 
 Kick off your project with this default boilerplate. This starter ships with the
